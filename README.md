@@ -1,6 +1,8 @@
 # Python_Assignments
 
-This is a Python Assignments Repo which covers all the topics in python. Below mentioned are the concepts covered in each assignment file.
+This is a Python Theory Assignments Repo which has question and answers it covers all the concepts in python like Datatypes, Operators, Loops, Functions, Oops, File handlings and many more... Below mentioned are the concepts covered in each assignment file.
+
+Programming Assignment:-  https://github.com/Krishna-Lohith/Python_Programming_Assignments
 
 ### Python_Assignment_001   
 **Concepts used:-**    
