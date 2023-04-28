@@ -183,3 +183,57 @@ List comprahension - [], ()
 generators  
 iterators  
 yeild   
+
+
+
+# Python Assignments Advanced - Oops  
+
+## Advance concepts classes and objects, built in functions etc..  
+
+### Python_Assignment_026  
+**Topics covered:-**    
+Oops  
+Inheritance search  
+\__init__  
+class  
+class instances  
+inheritance  
+
+
+### Python_Assignment_027  
+**Topics covered:-**  
+classes   
+modules  
+\__init__  - constructor method
+class attributes  
+instance attributes  
+self  
+operator overloading  
+
+
+
+### Python_Assignment_028    
+**Topics covered:-**  
+Abstract Superclass  
+class object  
+Constructor method  
+super() function  
+Local scope  
+
+
+### Python_Assignment_029  
+**Topics Covered:-**  
+iter()  
+next()  
+str()  
+repr()  
+indexing/slicing    
+addition(+) - iadd  
+
+### Python_Assignment_030      
+**Topics covered:-**  
+Multiple Inheritance  
+delegation  
+composition 
+Bound Methods  
+Private  
