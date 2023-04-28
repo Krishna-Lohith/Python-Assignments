@@ -303,3 +303,12 @@ List comprahension
 help  
 wrapper, decorator  
 generators - yield
+
+
+### Python_Assignment_040  
+**Topics covered:-**  
+Updates in python 3.8    
+Monkey patching    
+Shallow copy and deep copy    
+Generator comprahension  
+
