@@ -237,3 +237,69 @@ delegation
 composition 
 Bound Methods  
 Private  
+
+
+### Python_Assignment_031   
+**Topics covered:-**  
+Exceptions or Errors.  
+exceptions processing.  
+Handling an exception.  
+Recovering from exceptions.    
+Methods of triggering an exception.    
+finally(), atexit()  
+
+
+### Python_Assignment_032  
+**Topics covered:-**  
+try and except   
+try and finally  
+raise  
+assert  
+with  
+
+### Python_Assignment_033   
+**Topics covered:-**  
+user-defined exceptions  
+class based exceptions    
+traceback  
+
+### Python_Assignment_034        
+**Topics covered:-**  
+strings and bytes(encode, decode)  
+Unicode  
+text mode and binary mode  
+encoding  
+
+### Python_Assignment_035        
+**Topics covered:-**  
+getattr and getattribue.    
+properties and descriptors.
+
+
+### Python_Assignment_036          
+**Topics covered:-**  
+metaclass      
+class decorators      
+ 
+### Python_Assignment_037   
+**Topics covered:-**  
+strings
+strings immutability    
+indexing and slicing    
+in, not in   
+boolean    
+
+### Python_Assignment_038   
+**Topics covered:-**  
+slicing    
+list    
+matrix.  
+
+
+### Python_Assignment_039  
+**Topics covered:-**     
+operators    
+List comprahension    
+help  
+wrapper, decorator  
+generators - yield
