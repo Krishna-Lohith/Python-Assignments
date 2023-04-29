@@ -312,3 +312,52 @@ Monkey patching
 Shallow copy and deep copy    
 Generator comprahension  
 
+
+
+
+### Python_Assignment_041  
+**Topics covered:-**  
+Regex  
+re.match()  
+re.search()  
+re.sub() - replacement  
+raw string  
+| and []  
+
+
+### Python_Assignment_042
+**Topics covered:-**    
+Regex    
+greedy and non-greedy    
+
+
+### Python_Assignment_043  
+**Topics covered:-**  
+text files vs binary files    
+with    
+readline()  
+seek(), tell()  
+struct package       
+pickling  
+shelve  
+
+
+### Python_Assignment_044 
+**Topics covered:-**  
+classes and instance    
+method  
+Inheritance  
+Encapsulation   
+class variable and an instance variable   
+self  
+\__add__ and \__radd__    
+reflection method    
+\__iadd__  
+\__init__   
+
+
+### Python_Assignment_045  	
+**Topics covered:-**  
+Decimal    
+Fractions  
+
